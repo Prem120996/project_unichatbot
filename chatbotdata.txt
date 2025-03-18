@@ -1,0 +1,36 @@
+Question:Hall Ticket Correction 
+Answer: http://exam.unipune.ac.in/Pages/ExamFormsOnline.html
+Question:Examination related
+Answer:http://exam.unipune.ac.in/
+Question:sppu student login
+Answer:https://sim.unipune.ac.in/SIM_APP/
+Question:F.E Engineerig syllabus
+Answer:http://unipune.ac.in/Syllabi_PDF/revised/engg/FE_Syllabus.pdf
+Question:S.E Engineerig syllabus
+Answer:http://unipune.ac.in/Syllabi_PDF/revised_2009/engg/SE%20(COMPUTER%20ENGINEERING)%202008%20COURSE.pdf
+Question:T.E Engineerig syllabus
+Answer:http://unipune.ac.in/Syllabi_PDF/revised/engg/TE%20Computer%202008.pdf
+Question:Photocopy and Revaluation
+Answer:https://exampcr.unipune.ac.in/Student/Dashboard/LogintoSPS
+Question:examination contact faculty
+Answer:Dy. Registrar		dyregi-coordination@pun.unipune.ac.in
+Assitant Registrar	020-25601206
+Faculty of Arts 	020-25601218	arts-coord @pun.unipune.ac.in
+Faculty of Mental moral and Social sciences	020-25601218	mentalmoral-coord @pun.unipune.ac.in
+Faculty of Science	020-25601218	science-coord@pun.unipune.ac.in
+faculty of Law	020-25601218	law-coord@pun.unipune.ac.in
+Faculty of Engineering	020-25601218	engineering-coord @pun.unipune.ac.in
+faculty of Commerce	020-25601218	commerce-coord@pun.unipune.ac.in
+Faculty of Education	020-25601218	education-coord@pun.unipune.ac.in
+Faculty of Management	020-25601218	management-coord@pun.unipune.ac.in
+Faculty of Pharmacy	020-25601218	pharmacy-coord@pun.unipune.ac.in
+Faculty of Phy. Eduaction	020-25601218	physicaledu-coord@pun.unipune.ac.in
+Question:how can i raise grievance
+Answer: type of grievance related to examination , related to hall ticket ,related to  photocopy , related result 
+Question:Hall Ticket Correction 
+Answer: kindly go with student login of sppu and then will have to raise grievance
+          https://sim.unipune.ac.in/SIM_APP/
+Question: what are the pg course in sppu
+Answer: Savitribai Phule Pune University (SPPU) offers a wide range of postgraduate (PG) courses across various departments and affiliated colleges. Unfortunately, the university doesn't provide a centralized list of all the PG courses offered.
+Here's what you can do to find the PG course you're interested in:
+Visit the SPPU website: http://www.unipune.ac.in/
