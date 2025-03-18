@@ -1,0 +1,7 @@
+openapi key : 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
+
+pip install langchain
+pip install langchain_community
+pip install langchain_openai
+pip install sentence-transformers
+pip install chroma
