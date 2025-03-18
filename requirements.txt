@@ -1,0 +1,35 @@
+Flask==2.1.2
+streamlit
+langchain
+langchain-community
+langchain_openai
+chroma
+sentence-transformers
+uvicorn
+fastapi
+uvicorn
+sqlalchemy==2.0.0
+chromadb
+torch==2.2.0
+torchvision==0.17.0
+torchaudio==2.2.0
+fastapi
+uvicorn
+sentence-transformers
+fastapi
+uvicorn 
+asyncpg 
+sqlalchemy 
+databases 
+passlib
+fastapi 
+uvicorn 
+passlib 
+sqlalchemy 
+databases[sqlite] 
+python-multipart
+fastapi-session
+bcrypt==3.2.0
+pydantic==1.9.0
+# pip install -r requirements.txt
+# python your_script.py
