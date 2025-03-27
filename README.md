@@ -13,9 +13,9 @@ The **Smart Chatbot for University Grievances** is an AI-powered solution design
 - **Firebase Integration** – Stores and retrieves grievance records securely.
 
 ## 🔧 Technologies Used
-- **Backend**: Python (Flask/Django) or PHP
-- **Frontend**: HTML, CSS, JavaScript (React.js/Angular)
-- **Chatbot & NLP**: Dialogflow, GPT, Rasa, or custom NLP models
+- **Backend**: Python ,Flask
+- **Frontend**: HTML, CSS, JavaScript 
+- **Chatbot & NLP**:  custom NLP models
 - **Database**: Firebase Firestore
 - **Authentication**: Firebase Authentication (OAuth/Email-Password)
 
